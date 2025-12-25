@@ -1,0 +1,8 @@
+Privacy Policy Draft
+​1. Data Collection and Use
+​Location Data: The App collects location data. This data is processed ephemerally, meaning it is not permanently stored by the App. Google services are the main parties that track and process this data.
+​Device ID: Device ID data is also collected. This data is processed ephemerally and shared with Google services, including Google Ad services, for analytics and advertising purposes.
+​Google Services: The App integrates Google Analytics, ad services, and Google services. These services collect and process data for analytics, advertising, and communication purposes.
+​2. Data Sharing and Disclosure Data, including location and device ID, is shared with Google for the purposes mentioned above.
+​3. User Rights
+​You have the right to access, correct, or request deletion of your data. You may also be able to manage data collection through your device or app settings.
